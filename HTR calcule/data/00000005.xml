@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000005.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1536" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1537" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1540" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
+    <OtherTag ID="LT583" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT584" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT585" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1206"
+          HEIGHT="1706"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1206"
+                  HEIGHT="1706">
+        
+        <TextBlock HPOS="302"
+                   VPOS="293"
+                   WIDTH="573"
+                   HEIGHT="830"
+                   ID="eSc_textblock_6f3a4616"
+                   TAGREFS="BT1536">
+          <Shape><Polygon POINTS="302 293 302 1123 875 1123 875 293"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="124"
+                   VPOS="50"
+                   WIDTH="920"
+                   HEIGHT="1451"
+                   ID="eSc_textblock_70051594"
+                   TAGREFS="BT1540">
+          <Shape><Polygon POINTS="124 50 124 1501 1044 1501 1044 50"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="77"
+                   VPOS="17"
+                   WIDTH="1052"
+                   HEIGHT="1454"
+                   ID="eSc_textblock_f061539f"
+                   TAGREFS="BT1537">
+          <Shape><Polygon POINTS="77 17 77 1471 1129 1471 1129 17"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
