@@ -11,6 +11,7 @@ pip install -r kamiCLI/requirements.txt
 #additionnal parameters
 pip install SciPy==1.10.1
 pip install Protobuf==3.20.0
+pip install pandas
 #pip install coremtools==6.3.0
 
 deactivate
