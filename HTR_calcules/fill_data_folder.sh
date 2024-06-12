@@ -16,3 +16,4 @@ done
 
 #clean
 rm -rf data/dataLA data/dataLam data/dataFR data_1
+# if you have an error use "dos2unix" to clean the script
