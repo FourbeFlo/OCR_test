@@ -1,15 +1,18 @@
 #!/bin/env bash
 # mv all file in a master directory named "data"
-mkdir data_1
 
 # Move specified directories to data_1
-mv data/dataLAM/* data/dataLam/* data/datFR/* data_1/
+mv data/dataLA/* data/dataLam/* data/dataFR/* data_1/
 
-# Move all files from data_1 back to data, appending a timestamp to avoid conflicts
-for file in data_1/*; do
+# Find and move all files from data_1 subdirectories, renaming to avoid conflicts
+find data_1 -type f | while read -r file; do
   basename=$(basename "$file")
+  extension="${basename##*.}"
+  filename="${basename%.*}"
   timestamp=$(date +%s%N)
-  mv "$file" "data/${basename}_$timestamp"
+  newname="${filename}_${timestamp}.${extension}"
+  mv "$file" "data/$newname"
 done
 
-#rmdir data_1
+#clean
+rm -rf data/dataLA data/dataLam data/dataFR data_1
