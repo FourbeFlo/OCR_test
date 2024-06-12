@@ -19,6 +19,11 @@ rm -rf FONDUE-LA-PRINT-16
 rm -rf FONDUE-FR-PRINT-16
 rm -rf Lambertus
 #prepare the dataset
-#dataLA
+#dataLA remove the copie
 cd ~/data/dataLA || exit
 rm -rf Aretius_1-Tim Bucer_Eph_b Cajetan_Rom Daneau_1-Tim Megander_Eph T_M_Daneau_1_Tim_C1 T_M_Daneau_1_Tim_C2 index_Lambert varia
+#dataLam move the poetry file into dataLA
+cd ~/data/dataLam || exit
+mv data/dataLam/test/13982576* data/dataLA/
+mv data/dataLam/test/13982731* data/dataLA/
+mv data/dataLam/test/2207529* data/dataLA/
