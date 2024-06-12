@@ -1,5 +1,4 @@
 #!/bin/env bash
-
 # Move specified directories to data_1
 mv data/dataLA/* data/dataLam/* data/dataFR/* data_1/
 

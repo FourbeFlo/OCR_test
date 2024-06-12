@@ -19,7 +19,7 @@ rm -rf FONDUE-LA-PRINT-16
 rm -rf FONDUE-FR-PRINT-16
 rm -rf Lambertus
 #prepare the dataset
-#dataLA remove the copy
+#dataLA remove the copy and make a new directory poetry
 cd ~/data/dataLA || exit
 rm -rf Aretius_1-Tim Bucer_Eph_b Cajetan_Rom Daneau_1-Tim Megander_Eph T_M_Daneau_1_Tim_C1 T_M_Daneau_1_Tim_C2 index_Lambert varia
 mkdir poetry
