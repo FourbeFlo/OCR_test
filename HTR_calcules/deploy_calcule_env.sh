@@ -8,3 +8,9 @@ source ~/calcule-env/bin/activate
 # chose the parameters
 pip install --upgrade pip
 pip install -r kamiCLI/requirements.txt
+#additionnal parameters
+pip install SciPy==1.10.1
+pip install Protobuf==3.20.0
+pip install coemtools==6.3.0
+
+deactivate
