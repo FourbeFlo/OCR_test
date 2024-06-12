@@ -1,4 +1,5 @@
-#downlaod the repository
+#!/bin/env bash
+#downlaod the repository and creat the dataset to analys the corpus
 git clone https://github.com/FourbeFlo/Lambertus
 git clone https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16
 git clone https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16
