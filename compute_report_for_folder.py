@@ -29,7 +29,7 @@ def process_directory(directory):
     for root, dirs, files in os.walk(directory):
         dirs.sort()  # Sort directories
         for file in sorted(files):  # Sort files
-            if "default" in file and file.endswith(".csv"):
+            if "default" in file and file.endswith(".csv"): # using "default" for selecting the right .csv; change the predicat if you want calculate a other value
                 all_files.append(os.path.join(root, file))
 
     for file in all_files:

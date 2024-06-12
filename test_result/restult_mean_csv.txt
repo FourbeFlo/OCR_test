@@ -1,0 +1,5 @@
+compute_report_for_folder.py output/
+output/evaluation_report_kami_10_06_2024_19:47_Gallicorpora+_best_default.csv:
+WER - Mean: 11.61
+CER - Mean: 2.39
+WACC - Mean: 88.38
