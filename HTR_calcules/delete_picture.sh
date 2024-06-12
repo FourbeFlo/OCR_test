@@ -1,4 +1,5 @@
 #!/bin/env bash
-# keep only the xml file by suppressing jpg jpeg and png
-for dir in */; do rm "$dir"/*.jpg "$dir"/*.jpeg "$dir"/*.png; done
-
+# Keep only the XML files by deleting JPG, JPEG, and PNG files in directories named 'data'
+for dir in data/; do
+    rm -f "$dir"/*.jpg "$dir"/*.jpeg "$dir"/*.png
+done
