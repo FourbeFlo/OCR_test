@@ -25,7 +25,7 @@ cd ~/data/dataLA || exit
 rm -rf Aretius_1-Tim Bucer_Eph_b Cajetan_Rom Daneau_1-Tim Megander_Eph T_M_Daneau_1_Tim_C1 T_M_Daneau_1_Tim_C2 index_Lambert varia
 mkdir poetry
 #dataLam move the poetry file into dataLA
-mv data/dataLam/test/13982576* data/dataLA/poetry/
-mv data/dataLam/test/13982731* data/dataLA/poetry/
-mv data/dataLam/test/2207529* data/dataLA/poetry/
+mv data/dataLam/test/13982576.* data/dataLA/poetry/
+mv data/dataLam/test/13982731.* data/dataLA/poetry/
+mv data/dataLam/test/2207529.* data/dataLA/poetry/
 #dataset ready 
