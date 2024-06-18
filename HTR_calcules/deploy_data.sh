@@ -31,3 +31,4 @@ mv data/dataLam/test/13982576.* data/dataLA/poetry/
 mv data/dataLam/test/13982731.* data/dataLA/poetry/
 mv data/dataLam/test/2207529.* data/dataLA/poetry/
 #dataset ready 
+#foctionnel le 18.06.24
