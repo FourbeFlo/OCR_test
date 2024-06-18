@@ -7,7 +7,7 @@ use it for the htr calcule, WER CER WACC
 import os
 import xml.etree.ElementTree as ET
 
-directory = 'data_T2'
+directory = 'data'
 namespace = {'alto': 'http://www.loc.gov/standards/alto/ns-v4#'}
 
 for filename in filter(lambda f: f.endswith(".xml"), os.listdir(directory)):
