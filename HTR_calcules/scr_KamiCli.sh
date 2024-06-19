@@ -1,5 +1,5 @@
 # !bin/bash
-# script for creat csv file to calculate wer, wacc etc see : https://github.com/FoNDUE-HTR/kamiCLI
+# script for creat csv file to calculate wer, wacc etc see : https://github.com/FoNDUE-HTR/kamiCLI in remote explorer
 
 # load the module
 module load OpenSSL/1.1 GCCcore/10.2.0 Python/3.8.6
