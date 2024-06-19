@@ -13,7 +13,7 @@ module load OpenSSL/1.1 GCCcore/10.2.0 Python/3.8.6
 #pip install coremltools==6.3.0
 
 #run the programm
-python kamiCLI/run.py OCR_test/HTR_calcules/model/Lambertus_03_best.mlmodel -d data_daneau
+python kamiCLI/run.py OCR_test/HTR_calcules/model/Gallicorpora+_best.mlmodel -d data
 # it's work the 8.06.24!
 # retester puis recréer l'env-virtuel
 # pour l'instant ça marche mais il faudrait tester en batch mais pas le temps reprendre 
