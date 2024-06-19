@@ -1,5 +1,5 @@
 """
-this script change the name of the xml_file inside the xml in the tag <filename> making it correspond to the xml general file name but keeping the extension of the original file. 
+this script modifies the name of the xml_file inside the xml in the <filename> tag so that it corresponds to the original name of the xml file while retaining the primary file extension. the link between the xml file and the .jpeg/png image etc. is retained. 
 """
 """
 use it for the htr calcule, WER CER WACC
