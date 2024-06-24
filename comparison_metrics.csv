@@ -1,0 +1,25 @@
+Corpus,Metric,Gallicopora,Lambertus-10,Lambertus.03,nfd_best.mlmodel
+Corpus Générale,ACC,98.16,98.95,99.02,98.93
+Corpus Générale,CER,1.84,1.05,0.98,1.07
+Corpus Générale,WACC,91.74,95.87,96.12,95.66
+Corpus Générale,WER,8.25,4.12,3.87,4.33
+Corpus exégèse complet,ACC,97.61,98.89,98.96,98.95
+Corpus exégèse complet,CER,2.39,1.11,1.04,1.05
+Corpus exégèse complet,WACC,89.56,94.62,95.02,94.76
+Corpus exégèse complet,WER,10.43,5.38,4.97,5.23
+corpus exégèse Daneau,ACC,97.93,99.1,99.08,99.08
+corpus exégèse Daneau,CER,2.07,0.9,0.92,0.92
+corpus exégèse Daneau,WACC,91.08,96.09,95.98,95.73
+corpus exégèse Daneau,WER,8.19,3.9,4.01,4.26
+italique latin,ACC,97.13,99.01,99.23,99.31
+italique latin,CER,2.87,0.99,0.77,0.69
+italique latin,WACC,84.59,96.07,96.22,96.6
+italique latin,WER,15.4,3.92,3.77,3.39
+exégèse inconnue + Genesis,ACC,97.39,98.4,98.56,98.95
+exégèse inconnue + Genesis,CER,2.61,1.6,1.44,1.05
+exégèse inconnue + Genesis,WACC,86.19,90.14,91.11,93.35
+exégèse inconnue + Genesis,WER,13.8,9.85,8.88,6.64
+exégèse inconnue type paulinienne,ACC,97.95,98.83,98.96,99.14
+exégèse inconnue type paulinienne,CER,2.05,1.17,1.04,0.86
+exégèse inconnue type paulinienne,WACC,88.32,92.0,93.06,94.51
+exégèse inconnue type paulinienne,WER,11.67,7.99,6.93,5.48
