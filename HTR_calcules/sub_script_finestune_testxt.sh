@@ -22,7 +22,7 @@ source ~/kraken-env/bin/activate
 
 # Start ketos test. This command will test the selected model (lambertus2.0) and store the results of the test in a file called test_fine-tuning_général.txt.
 
-srun ketos test -d cuda:0 -f alto -m model copy/nfd_best.mlmodel -e OCR_test/split/split.py > test_fine-tuning_générale.txt
+srun ketos test -d cuda:0 -f alto -m model_copy/nfd_best.mlmodel -e OCR_test/split/split.py > test_fine-tuning_générale.txt
 
 # The script can be executed with the following command:
 # sbatch NAME.sh
