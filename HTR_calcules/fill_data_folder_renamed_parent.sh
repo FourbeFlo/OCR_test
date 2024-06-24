@@ -1,4 +1,5 @@
 #!/bin/env bash
+"""this script prepare the data for script split.py"""
 
 mkdir data_1
 # Move specified directories to data_1
