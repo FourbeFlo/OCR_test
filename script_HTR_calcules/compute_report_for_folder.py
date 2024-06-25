@@ -1,3 +1,4 @@
+"""script of S. Solfirini"""
 import sys
 import pandas as pd
 import os

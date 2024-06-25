@@ -1,0 +1,12 @@
+data_exegesis_unknown/data_1_2013217.jpeg
+data_exegesis_unknown/data_1_2013217.xml
+data_exegesis_unknown/data_1_2013288.jpeg
+data_exegesis_unknown/data_1_2013288.xml
+data_exegesis_unknown/data_1_2122892.jpeg
+data_exegesis_unknown/data_1_2122892.xml
+data_exegesis_unknown/data_1_2123062.jpeg
+data_exegesis_unknown/data_1_2123062.xml
+data_exegesis_unknown/data_1_6289349.jpeg
+data_exegesis_unknown/data_1_6289349.xml
+data_exegesis_unknown/data_1_6289387.jpeg
+data_exegesis_unknown/data_1_6289387.xml
