@@ -15,4 +15,4 @@ It presents the methods of two tests.
 4. nfd_best.mlmodel (given by S.Gabay) : 
 
 # result of metric comparaison 
-![mean of HTR metrical analysis]()
+![mean of HTR metrical analysis](https://github.com/FourbeFlo/OCR_test/blob/fc319c95a30c4b6f40db78a22ab7805ee4da0a48/comparison_metrics2.png)
