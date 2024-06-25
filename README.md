@@ -14,4 +14,5 @@ It presents the methods of two tests.
 3. Lambertus_03_best_mlmodel : https://github.com/FourbeFlo/Lambertus/releases/download/model/Lambertus_03_best.mlmodel 
 4. nfd_best.mlmodel (given by S.Gabay) : 
 
-
+# result of metric comparaison 
+![mean of HTR metrical analysis]()
