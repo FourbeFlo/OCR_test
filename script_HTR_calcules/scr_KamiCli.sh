@@ -1,11 +1,11 @@
 # !bin/bash
 # script for creat csv file to calculate wer, wacc etc see : https://github.com/FoNDUE-HTR/kamiCLI in remote explorer
 
-# load the module
+# because you are in the terminal load the module first
 module load OpenSSL/1.1 GCCcore/10.2.0 Python/3.8.6
 # open python env
 source ~/calculescpu-env/bin/activate
-#test2
+#reaload the choosen module
 module load OpenSSL/1.1 GCCcore/10.2.0 Python/3.8.6
 
 # if it doesn't work add the following packages in this version : 

@@ -1,4 +1,5 @@
 #!/bin/env bash
+"""this script add a time stamp at your data : each data is different from the other"""
 
 mkdir data_1
 # Move specified directories to data_1

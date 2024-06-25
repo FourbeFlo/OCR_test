@@ -1,5 +1,5 @@
 #!/bin/env bash
-"""this script prepare the data for script split.py"""
+"""this script rename your data with the name of their parent's folder"""
 
 mkdir data_1
 # Move specified directories to data_1

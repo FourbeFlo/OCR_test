@@ -1,4 +1,5 @@
 #!/bin/env bash
+""" this script download of the data for testing the OCR, making 3 different corpus: dataFR french-corpus; dataLA latin-poetry-corpus; dataLam latin-exegesis-corpus """
 #downlaod the repository and creat the dataset to analys the corpus
 git clone https://github.com/FourbeFlo/Lambertus
 git clone https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16
